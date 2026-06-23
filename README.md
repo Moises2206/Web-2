@@ -238,17 +238,11 @@ La tabla `recipes` fue creada en Supabase con la siguiente estructura:
 
 ---
 
-## 🎥 Video de funcionamiento
 
-📺 [Ver video en YouTube](https://youtube.com/tu-enlace-aqui)
-
-> El video muestra: estructura del proyecto, ejecución del servidor, documentación en `/docs`, pruebas válidas e inválidas, datos en Supabase y funcionamiento del endpoint de IA.
-
----
 
 ## 👤 Autor
 
-**Tu Nombre**  
+Moises de Jesús barrios Solano 
 Trabajo Final — Web II  
-Universidad / Institución  
+Universidad / Institución  universitaria americana 
 2025
